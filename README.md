@@ -2,9 +2,15 @@
 
 ## Links
 
+https://launchschool.com/blog/how-to-install-ruby-on-rails-development-environment-for-mac-os-x
+
 http://rubyonrails.org/
 
 https://cloud.google.com/ruby/rails/using-cloudsql
+
+## Installation
+
+rbenv install 2.4.1-p0
 
 ## Steps
 ==> ruby --version ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin16]
